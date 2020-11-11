@@ -10,6 +10,7 @@ namespace BelajarVCS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Moses");
         }
     }
 }
