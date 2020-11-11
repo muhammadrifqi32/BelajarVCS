@@ -11,6 +11,7 @@ namespace BelajarVCS
         static void Main(string[] args)
         {
             Console.WriteLine("Moses");
+            Console.WriteLine("Hi Moses, It's  Me Rifqi");
         }
     }
 }
